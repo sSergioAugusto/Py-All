@@ -1,11 +1,11 @@
 # PY-ALL
-- Atual versão: _0.3.16_
+- Atual versão: _0.4.27_
 
-- Bibliotecas: time, os, random, ui (módulo local)
+- Bibliotecas: time, os, ui & calc (módulos locais)
 
 - Funcionalidades atuais:
     - Criptografia (SHA-256)
-    - Calculadora (Matemática Básica)
+    - Calculadora (Matemática Básica & Calcular área)
 
 - Sistema de versão:
     - X.0.0 = Atualização geral;
